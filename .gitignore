@@ -1,4 +1,7 @@
 input
 output
+data*
+mglearn*
+images/*
 
 .ipynb*
